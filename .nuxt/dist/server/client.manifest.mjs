@@ -1,0 +1,1 @@
+export { default } from "file:///Users/maco/Documents/dev/kanTTa/node_modules/.pnpm/@nuxt+vite-builder@3.7.4_eslint@8.50.0_typescript@5.2.2_vue@3.3.4/node_modules/@nuxt/vite-builder/dist/runtime/client.manifest.mjs"
